@@ -1,6 +1,6 @@
 # Coding Blocks IDE  
 Coding Blocks IDE is an online IDE which supports compilation of multiple programming languages. 
-
+![image](https://marketing-image-production.s3.amazonaws.com/uploads/0ba295b66f676a965ba15303344f9e553b9e5f54381820d3752eee997e0c5d97cec5dbd68de0edd07b62c69b5d6b11ed15dd4655fef05607afd6a9deab3e1cc1.png)
 ## Deployment
 
 [![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)  
